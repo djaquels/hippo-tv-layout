@@ -4,13 +4,13 @@
   "donations": {
     "buymeacoffee": "georgdh"
   },
-  "gettext-domain": "hippo-layout-tv",
-  "name": "V-Shell",
+  "gettext-domain": "hippo-tv-layout",
+  "name": "Hippo TV (Remix V-Shell)",
   "session-modes": [
     "unlock-dialog",
     "user"
   ],
-  "settings-schema": "org.gnome.shell.extensions.hippo-layout-tv",
+  "settings-schema": "org.gnome.shell.extensions.hippo-tv-layout",
   "shell-version": [
     "45",
     "46",
@@ -18,7 +18,7 @@
     "48"
   ],
   "url": "https://github.com/djaquels/hippo-tv-layout",
-  "uuid": "hippo-layout-tv@djaquels",
+  "uuid": "hippo-tv-layout@djaquels",
   "version": 91,
   "version-name": "48.9"
 }

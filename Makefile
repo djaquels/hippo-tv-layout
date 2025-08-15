@@ -1,7 +1,7 @@
 SHELL := /bin/bash
 
 # Replace these with the name and domain of your extension!
-NAME     := hippo-layout-tv
+NAME     := hippo-tv-layout
 DOMAIN   := djaquels
 ZIP_NAME := $(NAME)@$(DOMAIN).zip
 
