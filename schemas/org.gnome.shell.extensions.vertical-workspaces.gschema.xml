@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<schemalist gettext-domain="vertical-workspaces">
-  <schema id="org.gnome.shell.extensions.vertical-workspaces" path="/org/gnome/shell/extensions/vertical-workspaces/">
+<schemalist gettext-domain="hippo-tv-layout">
+  <schema id="org.gnome.shell.extensions.hippo-tv-layout" path="/org/gnome/shell/extensions/hippo-tv-layout/">
     <key type="i" name="ws-thumbnails-position">
       <default>0</default>
     </key>
