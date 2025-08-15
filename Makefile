@@ -1,8 +1,8 @@
 SHELL := /bin/bash
 
 # Replace these with the name and domain of your extension!
-NAME     := vertical-workspaces
-DOMAIN   := G-dH.github.com
+NAME     := hippo-layout-tv
+DOMAIN   := djaquels
 ZIP_NAME := $(NAME)@$(DOMAIN).zip
 
 # Some of the recipes below depend on some of these files.

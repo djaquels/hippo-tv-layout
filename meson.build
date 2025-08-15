@@ -1,10 +1,10 @@
-project('vertical-workspaces')
+project('hippo-layout-tv')
 
 gnome = import('gnome')
 i18n = import('i18n')
 
-uuid = 'vertical-workspaces@G-dH.github.com'
-rdnn = 'org.gnome.shell.extensions.vertical-workspaces'
+uuid = 'hippo-layout-tv@djaquels'
+rdnn = 'org.gnome.shell.extensions.hippo-layout-tv'
 
 datadir = get_option('datadir')
 extension_dir = datadir / 'gnome-shell' / 'extensions' / uuid
